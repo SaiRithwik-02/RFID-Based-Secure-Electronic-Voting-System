@@ -1,4 +1,4 @@
-﻿# 🗳️ SecureBallot — RFID-Based Secure Electronic Voting System
+# 🗳️ SecureBallot — RFID-Based Secure Electronic Voting System
 
 An embedded voting terminal built around the **NXP LPC2148 (ARM7TDMI-S)** microcontroller. Voters and an election officer are identified by **RFID cards**, votes are entered on a **4x4 keypad**, results are shown on a **20x4 character LCD**, all voting state is stored in an external **AT24C256 I2C EEPROM**, the on-chip **RTC** enforces the voting time window, and every significant action is streamed to a **PC over UART0** as a timestamped CSV audit log.
 
