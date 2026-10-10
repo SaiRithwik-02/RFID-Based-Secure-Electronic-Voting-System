@@ -671,9 +671,15 @@ Working through this project teaches:
 
 ## 28. License
 
-This repository currently ships with a **license placeholder** (`LICENSE`) because **no license was included in the original project**. Until a license is chosen, the code is treated as **"All Rights Reserved"** (proprietary) by default.
+This project is released under the **MIT License** — see the [`LICENSE`](LICENSE) file for the full text.
 
-If you want others to use and build on your work, pick an open-source license. For a portfolio/embedded learning project, **MIT** is a common, simple choice. See the comments inside the [`LICENSE`](LICENSE) file for ready-to-use MIT text and instructions for adding a license on GitHub.
+```
+MIT License
+
+Copyright (c) 2026 Sai Rithwik
+```
+
+In short: you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this project, as long as you include the original copyright notice and the license text. The software is provided "as is", without warranty of any kind.
 
 **This project is provided for educational purposes only and carries no warranty. It is not suitable for use in real elections without independent security review and certification.**
 
