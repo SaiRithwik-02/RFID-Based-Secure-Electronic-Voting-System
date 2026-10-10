@@ -1,0 +1,58 @@
+Copyright (c) 2026 Sai Rithwik. All rights reserved.
+
+========================================================================
+                        LICENSE PLACEHOLDER
+========================================================================
+
+This project was uploaded to GitHub WITHOUT a specific open-source
+license because no license file was present in the original project.
+
+IMPORTANT:
+  * By default, copyright law treats this repository as
+    "All Rights Reserved" (proprietary). Other people may view the
+    code on GitHub, but they do NOT automatically have the right to
+    copy, modify, or redistribute it.
+
+  * If you want others to be able to use, modify, and share your
+    work, replace THIS file with a real license. Common choices for
+    an Embedded C / academic project:
+
+      - MIT License        -> permissive, simple, widely used.
+                               Good default for portfolio projects.
+      - Apache License 2.0 -> permissive, adds an explicit patent grant.
+      - GNU GPLv3          -> copyleft; derivative works must also
+                               stay open source under the GPL.
+
+  * To add a license on GitHub without editing files manually:
+    On your repository page click  "Add file" -> "Create new file",
+    type the file name  LICENSE,  and GitHub will show a "Choose a
+    license template" button.
+
+Until a real license is added, treat all source code in this
+repository as copyrighted and not licensed for redistribution.
+
+------------------------------------------------------------------------
+Suggested MIT License text (uncomment / replace the block above with
+the following if you want to use MIT):
+
+MIT License
+
+Copyright (c) 2026 Sai Rithwik
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

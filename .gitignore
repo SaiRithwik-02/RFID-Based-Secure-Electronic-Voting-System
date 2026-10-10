@@ -1,0 +1,67 @@
+# =========================================================
+# SecureBallot - RFID-Based Secure Electronic Voting System
+# C / Embedded C (Keil uVision, ARM7 LPC2148) .gitignore
+# =========================================================
+
+# ---------- Keil uVision build outputs ----------
+# Object files
+*.o
+*.obj
+*.__i
+*.i
+
+# Listing / map / build info files
+*.lst
+*.map
+*.axf
+*.crf
+*.d
+*.dep
+*.bak
+*.tmp
+*.lnp
+*.sct
+*.iex
+*.plg
+*.tra
+*.tmp
+
+# Keil generated binary / hex outputs
+*.hex
+*.bin
+*.elf
+*.out
+
+# Keil project user-specific / generated files
+*.uvguix.*
+*.uvoptx
+*.uvopt
+JLinkLog.txt
+DebugConfig/
+Objects/
+Listings/
+
+# NOTE: The main Keil project files (*.uvprojx / *.uvproj) are
+# intentionally NOT ignored so the build configuration stays in
+# the repository. If you prefer to keep them local, uncomment:
+# *.uvprojx
+# *.uvproj
+
+# ---------- Editor / OS artifacts ----------
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# ---------- Temporary / misc ----------
+*.log
+*.swp
+*~
